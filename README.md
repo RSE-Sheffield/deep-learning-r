@@ -1,10 +1,18 @@
 
-# Version control through Git, GitHub & GitKraken for researchers
+# Deep Learning in R
 
 <!-- badges: start -->
 [![Netlify Status](https://api.netlify.com/api/v1/badges/846e3c15-8af4-4bba-8fce-02ea13f42e53/deploy-status)](https://app.netlify.com/sites/rse-workshop-material-template/deploys)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 <!-- badges: end -->
+
+## Quick Links
+
+- [Google Collab](https://colab.research.google.com/)
+- [Udacity Deep Learning Course](https://classroom.udacity.com/courses/ud187/)
+- [Jade DL Materials](https://github.com/twinkarma/jadedl)
+
+***
 
 Source of the website of a short course.
 
